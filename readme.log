@@ -3,4 +3,8 @@ Git is free software distributed under the GPL.
 Git has a mutable index called stage.
 GIt test on 20th October .
 Now is 14:17.
+<<<<<<< HEAD
 creat a new branch.
+=======
+test dev.
+>>>>>>> dev
